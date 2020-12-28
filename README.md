@@ -20,3 +20,6 @@ Create an account and add topics and entries.
 ## Live Project
 
 - [Online](https://boiling-everglades-79435.herokuapp.com/)
+
+
+To be honest it's not app write only by me, i wrote it step by step with book "Python instructions for programmer".
